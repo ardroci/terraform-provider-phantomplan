@@ -3,7 +3,7 @@ module terraform-provider-phantomplan
 go 1.22.7
 
 require (
-	github.com/hashicorp/terraform-plugin-framework v1.13.0
+	github.com/hashicorp/terraform-plugin-framework v1.14.1
 	github.com/hashicorp/terraform-plugin-framework-validators v0.16.0
 	github.com/hashicorp/terraform-plugin-log v0.9.0
 )
